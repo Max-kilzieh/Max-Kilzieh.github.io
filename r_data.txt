@@ -1,0 +1,246 @@
+id,area,latitude,longitude,name
+1,Bromma,59.332223,17.948369,Abrahamsbergsvägen
+2,Bromma,59.358219,17.956068,"Adolfsbergsvägen 13"
+3,Södermalm,59.312735,18.101793,Alsnögatan
+4,Bromma,59.332763,17.975572,"Alviksvägen 1, vid Circle-K"
+5,Södermalm,59.311278,18.104487,"Anders Frantzens park"
+6,Älvsjö,59.28779,18.02739,"Annebodavägen 66"
+7,Östermalm,59.354994,18.097574,"Artemisgatan, utanför 89:an"
+8,Hässelby-Vällingby,59.392847,17.810403,"Backlöksvägen 22"
+9,Hässelby-Vällingby,59.380322,17.834276,Backtimjegränd
+10,Hässelby-Vällingby,59.383856,17.865026,Basgränd
+11,Hässelby-Vällingby,59.390279,17.802263,"Bergmyntegrän Vändzon"
+12,Bromma,59.341914,17.924862,Bergslagsvägen
+13,Bromma,59.342852,17.907361,Bergslagsvägen/Vultejusvägen
+14,Enskede-Årsta-Vantör,59.284283,18.097215,"Bersågränd 1/Åstorpsringen"
+15,Södermalm,59.310093,18.078851,"Bjurholmsgatan 16"
+16,Enskede-Årsta-Vantör,59.256448,18.036285,Bjursätragränd/Lurstigen
+17,Hässelby-Vällingby,59.237727,17.963489,"Björnmossevägen 5"
+18,Bromma,59.343816,17.886655,"Björnsongatan 4"
+19,Hägersten-Liljeholmen,59.307158,17.996081,Blommensbergsvägen
+20,Hässelby-Vällingby,59.367962,17.82092,"Blåklocksvägen 3"
+21,Hägersten-Liljeholmen,59.300184,17.981744,Bokbindarvägen/Bäckvägen
+22,Södermalm,59.313165,18.095827,"Bondegatan, Mittemot nr 79"
+23,Södermalm,59.317784,18.034688,"Borgargatan 6"
+24,Skärholmen,59.276796,17.896622,Brantholmsgränd
+25,Bromma,59.353723,17.916996,"Bromma kyrka"
+26,Spånga-Tensta,59.365565,17.916865,Brotorpsvägen-Arrendeväg
+27,Enskede-Årsta-Vantör,59.288643,18.06062,"Bägersta Byväg/Sockenvägen"
+28,Enskede-Årsta-Vantör,59.28998,18.064688,Bägerstavägen/Herrgårdsvägen
+29,Enskede-Årsta-Vantör,59.271405,18.042651,"Bärbogränd 2"
+30,Spånga-Tensta,59.376248,17.91963,"Cervins Väg/Duvbovägen"
+31,Hässelby-Vällingby,59.369428,17.856177,"COOP Vinsta"
+32,Spånga-Tensta,59.377893,17.906606,Dagsverksvägen
+33,Norrmalm,59.346227,18.04098,Dalagatan
+34,Farsta,59.241651,18.086702,"Dubbel Tidning"
+35,Hässelby-Vällingby,59.392574,17.818967,Dvärglinsgränd
+36,Östermalm,59.370555,18.053979,Ekhagsvägen/Åminnevägen
+37,Hägersten-Liljeholmen,59.287691,17.964113,"Elsa Brännströms gata"
+38,Östermalm,59.338882,18.069837,Engelbrektsgatan
+39,Bromma,59.361136,17.952449,"Enighetsvägen/vid vändplanen"
+40,Östermalm,59.344871,18.09294,"Erik Dahlbergsgatan 43"
+41,Hägersten-Liljeholmen,59.306655,18.000733,"Erik Segersälls vägAspuddens centrum, vid T-banan"
+42,Södermalm,59.306397,18.068316,"Eriksdalsgatan 23-25"
+43,Kungsholmen,59.324973,18.003628,"Essinge Brogatan 37"
+44,Kungsholmen,59.321339,17.990062,"Essinge Kyrkväg, Nedanför kyrkan"
+45,Farsta,59.25684,18.07985,Fagersjövägen
+46,Skärholmen,59.279238,17.896619,"Falkholmsgränd 41"
+47,Farsta,59.238324,18.106274,"Filipstadbacken 70, Mittemot Larsboda"
+48,Skärholmen,59.276328,17.886584,Fjärdholmsgränd
+49,Södermalm,59.316731,18.030593,"Folkskolegatan 13"
+50,Södermalm,59.315607,18.092587,"Folkungagatan 141-143"
+51,Hägersten-Liljeholmen,59.285587,17.973319,"Fredrika Bremers gata 40"
+52,Hägersten-Liljeholmen,59.31412,18.00431,"Fregattvägen 29"
+53,Norrmalm,59.347275,18.056467,Frejgatan
+54,Norrmalm,59.345355,18.049429,"Frejgatan, vid bryggarsalen"
+55,Kungsholmen,59.331191,18.027566,"Fridhemsgatan 16"
+56,Skärholmen,59.289428,17.938834,"Frimurarvägen 38"
+57,Enskede-Årsta-Vantör,59.270336,18.046322,"Fågelstavägen 1"
+58,Södermalm,59.310182,18.095126,"Färgarplan, Södermalm"
+59,Farsta,59.245808,18.097142,"Färnebogatan 66"
+60,Bromma,59.36785,17.926023,"Gamla Bromstensvägen 88"
+61,Enskede-Årsta-Vantör,59.292615,18.095405,Garagevägen
+62,Älvsjö,59.280382,18.034811,"Gimmerstavägen 2"
+63,Enskede-Årsta-Vantör,59.26458,18.01013,"Glanshammarsgatan 42"
+64,Hägersten-Liljeholmen,59.314145,18.014081,Grenljusbacken/Lövholmsvägen
+65,Hägersten-Liljeholmen,59.314809,17.996819,"Gröndalsvägen 118"
+66,Enskede-Årsta-Vantör,59.298743,18.078542,"Gullmarsvägen 7"
+67,Östermalm,59.350303,18.064905,"Gångbro över Roslagsbanan"
+68,Enskede-Årsta-Vantör,59.269206,18.058157,"Götaforsvägen/Grycksbovägen vid bensinstation"
+69,Älvsjö,59.281121,18.015327,"Götalandsvägen 205"
+70,Enskede-Årsta-Vantör,59.261076,18.025826,"Hagsätravägen 119"
+71,Farsta,59.248524,18.056374,"Havsörnsvägen 44"
+72,Södermalm,59.319493,18.041017,Heleneborgsgatan
+73,Farsta,59.263076,18.123477,"Hemköps parkering Gråhundsvägen 9"
+74,Älvsjö,59.280832,17.960256,Herrängsvägen
+75,Kungsholmen,59.333139,18.001375,"Hjalmar Söderbergs Väg 14"
+76,Skarpnäck,59.283148,18.115122,"Holmögaddsvägen 1"
+77,Södermalm,59.314998,18.031927,"Hornsgatan 182"
+78,Hägersten-Liljeholmen,59.305027,17.97625,"Hägerstens allé 5"
+79,Hägersten-Liljeholmen,59.300627,17.964064,"Hägerstensvägen 302"
+80,Hägersten-Liljeholmen,59.301344,17.958303,"Hägerstensvägen vid T-bana Mälarhöjden"
+81,Södermalm,59.314604,18.057219,"Högbergs gatan/Rosenlundsgatan"
+82,Barkarbystaden/Järfälla,59.415075,17.864054,"ICA Maxi Barkarbystaden/Järfälla"
+83,Kungsholmen,59.338344,18.022341,"Igeldammsgatan, Mittemot nr 42"
+84,Kungsholmen,59.335746,18.025909,Igeldammsgatan/Flemingatan
+85,Rinkeby-Kista,59.402342,17.933102,Jyllandsgatan
+86,Hässelby-Vällingby,59.356086,17.882272,Jämtlandsgatan/Håsjögränd
+87,Östermalm,59.346439,18.102301,"Kampementsgatan 2"
+88,Södermalm,59.316027,18.074984,"Kapellgränd, Mittemot nr 15"
+89,Norrmalm,59.342975,18.045925,"Karlbergsv./Västmannag. (Odenplan)"
+90,Norrmalm,59.343341,18.027236,"Karlbergsvägen/Norra Stationsgatan"
+91,Skarpnäck,59.293333,18.114477,"Karlskronavägen 2"
+92,Älvsjö,59.286935,17.980075,Karossvägen/Vagnvägen
+93,Hässelby-Vällingby,59.365419,17.861672,"Kirunagatan 29"
+94,Farsta,59.264499,18.080881,"Kistvägen/Herrhagsvägen Gubbängen"
+95,Södermalm,59.318325,18.075038,"Klevgränd, nedanför Mosebacke Terrass"
+96,Spånga-Tensta,59.382186,17.896042,Kronofogdevägen
+97,Spånga-Tensta,59.395117,17.916214,"Krällingegränd 24"
+98,Kungsholmen,59.336888,18.034016,"Kungsholms Strand, bredvid bron"
+99,Kungsholmen,59.330086,18.048782,"Kungsklippan 6"
+100,Norrmalm,59.340499,18.054232,Kungstensgatan/Drottninggatan
+101,Bromma,59.342165,17.949856,"Kvarnbacksvägen 64"
+102,Hässelby-Vällingby,59.366469,17.850276,"Kvarnhagsgatan 54"
+103,Hägersten-Liljeholmen,59.313989,18.0277,Liljeholmsstranden
+104,Östermalm,59.339538,18.117156,"Lindarängsvägen vid Tullvaktsvägen"
+105,Skarpnäck,59.27716,18.141633,"Ljusnevägen, mittemot nr 15"
+106,Hässelby-Vällingby,59.369427,17.835036,Loviselundsvägen
+107,Södermalm,59.319797,18.054476,"Ludvigsbergsgatan 17"
+108,Hägersten-Liljeholmen,59.294728,17.964355,"Lugntorpsvägen 57"
+109,Norrmalm,59.338221,18.062257,"Luntmakargatan 28"
+110,Norrmalm,59.34272,18.058525,"Luntmakargatan 80/Rehnsgatan"
+111,Hägersten-Liljeholmen,59.315958,18.015068,"Lusuddsvägen 4"
+112,Hässelby-Vällingby,59.36544,17.861819,Lyckselevägen/Kirunagatan
+113,Älvsjö,59.273485,17.994688,"Långsjövägen/ Pukslagargatan"
+114,Skärholmen,59.287216,17.913585,Lövsätragränd/Björksätravägen
+115,Skarpnäck,59.289717,18.115841,"Malmövägen; mittemot nr 59"
+116,Hässelby-Vällingby,59.365543,17.842952,"Maltesholmsvägen 85"
+117,Bromma,59.337669,17.982677,Margeretelundsvägen
+118,Bromma,59.334765,17.987241,"Margeretelundsvägen 10-12"
+119,Rinkeby-Kista,59.415229,17.911361,"Mariehamnsgatan 11-13"
+120,Enskede-Årsta-Vantör,59.281276,18.080728,Mellanvägen/Sockenvägen
+121,Kungsholmen,59.330238,17.999901,"Messeniusgatan/ Stagneliusvägen"
+122,Hässelby-Vällingby,59.360216,17.878509,"Multrågatan 142"
+123,Södermalm,59.322893,18.069114,"Mälartorget 17"
+124,Rinkeby-Kista,59.41293,17.923355,"Narviksgatan 11"
+125,Hägersten-Liljeholmen,59.291708,17.991289,"Nitvägen 26"
+126,Kungsholmen,59.326655,18.046386,"Norrmälarstrand mittemot nr 20"
+127,Östermalm,59.338263,18.078981,"Nybrogatan 57"
+128,Skarpnäck,59.297733,18.094161,"Olaus Magnus väg 36"
+129,Hässelby-Vällingby,59.363971,17.842065,"Ormängsgatan 16"
+130,Enskede-Årsta-Vantör,59.294152,18.086354,"Pastellvägen 1"
+131,Farsta,59.2527,18.082826,Pepparvägen
+132,Bromma,59.345314,17.894969,"Per Ekströms väg 5"
+133,Farsta,59.255918,18.106811,"Perstorpsvägen 75"
+134,Kungsholmen,59.333329,18.047458,"Pipersgatan 41"
+135,Södermalm,59.31809,18.022851,Pokalvägen
+136,Kungsholmen,59.331096,18.036797,"Polhemsgatan 23 mitt emot polishus"
+137,Kungsholmen,59.334677,18.038843,"Polhemsgatan/P O Hallmans gata"
+138,Kungsholmen,59.328994,18.032909,"Pontonjärgatan 19"
+139,Södermalm,59.31871,18.068188,"Ragvaldsgatan 9"
+140,Farsta,59.263725,18.089686,"Ramvägen 23"
+141,Södermalm,59.312824,18.084946,"Renstiernas Gata/Skånegatan"
+142,Södermalm,59.31036,18.087256,"Ringvägen 163"
+143,Enskede-Årsta-Vantör,59.266888,18.0316,"Ripsavägen 34"
+144,Östermalm,59.340869,18.066169,"Runebergsgatan 1"
+145,Skarpnäck,59.274952,18.130919,"Rusthållarvägen, vid nr 38"
+146,Skarpnäck,59.276874,18.12709,Rusthållarvägen-Fogdevägen
+147,Enskede-Årsta-Vantör,59.257102,18.024645,"Rågsveds Skolgränd 6"
+148,Kungsholmen,59.328466,18.010519,"Rålambsvägen 30, Mittemot Marieberg"
+149,Hässelby-Vällingby,59.371532,17.88555,"Rättar Vigs väg 93"
+150,Farsta,59.23604,18.086964,"Rödkindavägen 18"
+151,Norrmalm,59.340772,18.029544,"Rörstrandsgatan 32"
+152,Kungsholmen,59.338166,18.014585,"S:t Göransgatan 152"
+153,Enskede-Årsta-Vantör,59.295331,18.043652,"Sandjärdsgatan, mittemot Årsta Värdshus"
+154,Hässelby-Vällingby,59.378308,17.816032,"Sandviksvägen/Lövsta vägen"
+155,Älvsjö,59.272945,17.961644,"Segeltorpsvägen 37"
+156,Enskede-Årsta-Vantör,59.299375,18.041223,"Siljansvägen 75"
+157,Östermalm,59.347226,18.102734,"Sandhamnsgatan 4"
+158,Hässelby-Vällingby,59.365558,17.86667,"Abiskovägen 30"
+159,Enskede-Årsta-Vantör,59.27031,18.046306,"Fågelstavägen 8"
+160,Enskede-Årsta-Vantör,59.266755,18.036339,"Skebokvarnsvägen 159"
+161,Enskede-Årsta-Vantör,59.262813,18.040592,"Skebokvarnsvägen 337"
+162,Skarpnäck,59.245792,18.177114,"Skrubba koloniområde"
+163,Enskede-Årsta-Vantör,59.298751,18.033667,"Skälderviksplan 3"
+164,Farsta,59.254794,18.114557,"Sköndalsvägen 82-86"
+165,Enskede-Årsta-Vantör,59.298236,18.066612,"Sköntorpsvägen 18"
+166,Enskede-Årsta-Vantör,59.274739,18.058385,Skönviksvägen/Munksjövägen
+167,Älvsjö,59.272874,17.977973,"Snöripsvägen, vid dagis och Thaikiosk"
+168,Spånga-Tensta,59.386646,17.902924,"Solhems Hagväg 8"
+169,Hässelby-Vällingby,59.357984,17.888614,Solleftegatan
+170,Hägersten-Liljeholmen,59.29274,17.984919,"Sparbanksvägen, vid Mellanbergsvägen"
+171,Enskede-Årsta-Vantör,59.283097,18.042818,"Sparreholmsvägen/vid Tussmötesvägen"
+172,Spånga-Tensta,59.373256,17.900456,"Spångavägen 353"
+173,Bromma,59.361562,17.905338,"Spångavägen/Vinbärsvägen Eneby"
+174,Kungsholmen,59.336448,18.021324,"Stadshagsvägen 14"
+175,Hässelby-Vällingby,59.380539,17.885086,Vinstavägen
+176,Hägersten-Liljeholmen,59.307958,17.989233,Stenkilsgatan
+177,Kungsholmen,59.318568,17.990031,Stenkullavägen/Essingestråket
+178,Enskede-Årsta-Vantör,59.262086,18.00283,Stjärnsundsgatan/Glanshammarsgatan
+179,Enskede-Årsta-Vantör,59.286068,18.087396,"Stockholmsvägen 3"
+180,Farsta,59.24117,18.094251,"Storforsplan Larsbodavägen"
+181,Östermalm,59.331481,18.089581,Strandvägen
+182,Östermalm,59.348544,18.095725,"Studentbacken 2"
+183,Bromma,59.363783,17.904167,Sundbyvägen
+184,Älvsjö,59.265828,17.976289,Svartlösavägen/Strandängsstigen
+185,Norrmalm,59.349877,18.048569,"Sveavägen 143"
+186,Enskede-Årsta-Vantör,59.277334,18.048126,"Sågverksgatan vid Korsnäsvägen"
+187,Skärholmen,59.288062,17.912389,"Sätra Gårdsväg"
+188,Skärholmen,59.284846,17.923583,"Sätra Torg"
+189,Södermalm,59.315619,18.079353,"Södermannagatan 2"
+190,Hässelby-Vällingby,59.383265,17.858663,Sörgårdsvägen/Tenorgränd
+191,Bromma,59.345235,17.971696,"Tackjärnsvägen 6"
+192,Farsta,59.274578,18.091538,"Tallkrogsvägen 41"
+193,Skärholmen,59.290878,17.93058,Tankebyggarbacken
+194,Södermalm,59.311459,18.051973,"Tantogatan 12"
+195,Hägersten-Liljeholmen,59.302832,18.012057,"Tegelbruksvägen 17"
+196,Norrmalm,59.339604,18.060189,"Tegnérgatan 27/Sveavägen"
+197,Hägersten-Liljeholmen,59.301783,18.005115,"Tellusborgsvägen 53"
+198,Kungsholmen,59.332708,18.011971,"Thorildsplans gymnasium"
+199,Södermalm,59.316943,18.061023,"Timmermansgatan 27"
+200,Södermalm,59.311155,18.072793,"Tjurbergsgatan 23-25 på torget"
+201,Norrmalm,59.341307,18.035703,Tomtebogatan
+202,Södermalm,59.319002,18.056525,"Torkel Knutssonsgatan"
+203,Enskede-Årsta-Vantör,59.263297,18.051913,"Trollesundsvägen 63"
+204,Enskede-Årsta-Vantör,59.266296,18.056123,Trollesundsvägen/Skeppstavägen
+205,Enskede-Årsta-Vantör,59.287661,18.080737,"Trädskolevägen (mitt emot nr 17 i Johanneshov)"
+206,Enskede-Årsta-Vantör,59.279986,18.056535,Tussmötevägen/Bandhagsvägen
+207,Skarpnäck,59.267234,18.139363,Tättorpsvägen/Pilotgatan
+208,Hägersten-Liljeholmen,59.293432,17.946694,"Ugglemossevägen 61-65"
+209,Norrmalm,59.340157,18.051175,Upplandsgatan
+210,Norrmalm,59.33595,18.055272,"Upplandsgatan 1"
+211,Östermalm,59.349065,18.062207,"Valhallavägen 16"
+212,Östermalm,59.337624,18.103632,Valhallavägen/Oxenstiernsgatan
+213,Enskede-Årsta-Vantör,59.293616,18.050355,"Valla Torg 63"
+214,Älvsjö,59.276007,17.982258,Vantörsvägen
+215,Södermalm,59.316945,18.040008,"Varvsgatan (mittemot nr 21)"
+216,Rinkeby-Kista,59.401594,17.943937,"Vejlegatan Kista C"
+217,Kungsholmen,59.326926,18.013131,"Wennerbergsgatan 9, Vändzon"
+218,Skarpnäck,59.279756,18.108714,"Vid butiken Ekodirekt"
+219,Hässelby-Vällingby,59.379955,17.803236,"Vidholmsbackarna 102/Riddersviksvägen"
+220,Bromma,59.336856,17.979121,Vidängsvägen
+221,Norrmalm,59.343482,18.033827,Vikingagatan
+222,Rinkeby-Kista,59.413478,17.917145,Villmanstrandsgatan/Ainogången
+223,Skarpnäck,59.295372,18.10748,"Willy Brandts Park/Fotbollsplanen"
+224,Älvsjö,59.275282,18.0293,"Vingåkersplan, vid fotbollsplanen"
+225,Spånga-Tensta,59.37599,17.874302,Vinstavägen/Sörgårdsvägen
+226,Enskede-Årsta-Vantör,59.261987,18.018061,Vintrosagatan/Olshammarsgatan
+227,Skärholmen,59.277311,17.878798,"Vårbergsvägen 135"
+228,Hässelby-Vällingby,59.366255,17.883392,"Vällingbyvägen / Tornedalsgatan"
+229,Östermalm,59.332778,18.078261,Väpnargatan
+230,Farsta,59.247786,18.084878,"Värmlandsvägen snett emot bollplan"
+231,Farsta,59.244743,18.078653,"Värmlandsvägen, mitt emot 410"
+232,Hägersten-Liljeholmen,59.292051,17.977941,"Västertorpsvägen/ Broddgränd"
+233,Södermalm,59.313192,18.071469,"Västgötagatan 5"
+234,Enskede-Årsta-Vantör,59.295242,18.058831,"Vättersvägen; efter Bolmensvägen"
+235,Södermalm,59.31642,18.050923,"Zinkensdamms IP, kiosken"
+236,Skärholmen,59.301275,17.936295,"Ålgrytevägen 90"
+237,Enskede-Årsta-Vantör,59.296557,18.040427,"Åmänningevägen; vid tvärbanans station"
+238,Södermalm,59.313432,18.074638,"Åsögatan 113-121"
+239,Södermalm,59.308994,18.073144,"Älvsborgsgatan 6"
+240,Älvsjö,59.285056,17.993259,"Älvsjövägen 90"
+241,Skärholmen,59.275321,17.879727,"Ängsholmsgränd, bredvid lekplatsen"
+242,Skärholmen,59.275412,17.882989,"Ängsholmsgränd; vid vändplanen"
+243,Enskede-Årsta-Vantör,59.288687,18.037305,"Östbergabackarna, infarten från Årstafältet"
+244,Östermalm,59.339894,18.087106,"Östermalmsgatan 88"
+245,Södermalm,59.306281,18.081095,"Östgötagatan, vid nr 97"
